@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+#bgcenter{
+	width:1350px;
+	height:1574px;
+	background-image: url("../img/haikei.jpg");
+	background-position: center top;
+	background-repeat:no-repeat; 
+	 
+}
+
+#headercolor{
+	width: 1350px;
+	background-color: fffffff;
+}
+
+input.client{
+	border:0;
+	padding:10px;
+	font-size:0,8em;
+	font-family:Arial, sans-serif;
+	color:#aaa;
+	border:solid 1px #ccc;
+	margin:0 0 20px;
+	width:120px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border:solid 1px #000000;
+
+	
+}
+	
